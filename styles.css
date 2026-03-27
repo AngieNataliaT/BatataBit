@@ -61,7 +61,7 @@
   height: 50px;
   width: 229px;
   position: absolute;
-  top: 290px;
+  top: 210px;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -264,8 +264,8 @@
   display: flex;
   justify-content: center;
   position: absolute;
-  left: 36%;
-  top: 359%;
+  left: 44.5%;
+  top: 265%;
 }
 
 .planes {

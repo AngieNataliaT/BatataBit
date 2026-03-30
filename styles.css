@@ -413,6 +413,7 @@
 
 @media (max-width: 428px) {
   .Highlight {
+    position: absolute;
     left: 50%;
     top: 322%;
     transform: translate(-50%, -50%);

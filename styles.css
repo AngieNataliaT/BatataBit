@@ -410,3 +410,15 @@
   gap: 15px;
   margin-right: 15px;
 }
+
+@media (max-width: 428px) {
+  .Highlight {
+    left: 50%;
+    top: 322%;
+    transform: translate(-50%, -50%);
+  }
+
+  .btn-1 {
+    top: 290px;
+  }
+}

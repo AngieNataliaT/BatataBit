@@ -415,7 +415,7 @@
   .Highlight {
     position: absolute;
     left: 50%;
-    bottom: 50%;
+    bottom: 20%;
     transform: translate(-50%, -50%);
   }
 

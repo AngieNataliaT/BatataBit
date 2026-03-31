@@ -411,11 +411,11 @@
   margin-right: 15px;
 }
 
-@media (max-width: 428px) {
+@media (max-width: 600px) {
   .Highlight {
     position: absolute;
     left: 50%;
-    top: 322%;
+    top: 320%;
     transform: translate(-50%, -50%);
   }
 
